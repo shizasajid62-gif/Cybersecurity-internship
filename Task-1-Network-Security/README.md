@@ -12,3 +12,4 @@ In Task 1, I completed a hands-on networking lab and studied:
 * Common Network Misconfigurations
 
 I also practiced networking concepts through a TryHackMe lab.
+drive link —-> https://drive.google.com/drive/folders/1xBjD7IRxBPyH2cr0GdoL1geGjqzfRGyA
